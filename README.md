@@ -58,3 +58,23 @@ npm run dev
 The app will be available at **`http://localhost:3000`**.  
 
 ---
+
+## Home - Dashboard 
+![image](https://github.com/user-attachments/assets/dfb653ae-dccb-4aab-a88d-0c150acc36ff)
+
+## Meeting Schedule Page
+![image](https://github.com/user-attachments/assets/7de4f851-dc1a-46b6-9b6a-7c0e83a20f8d)
+
+![image](https://github.com/user-attachments/assets/88078dc3-e077-43b0-8b71-180630b492d0)
+
+
+## Meeting Room Page
+![image](https://github.com/user-attachments/assets/34252860-4165-4655-9b77-d6213b729360)
+
+## Recording Page 
+ ![image](https://github.com/user-attachments/assets/72bb6b9d-2575-4297-bddc-37f2aa677168)
+
+## Candidate Dashboard
+![image](https://github.com/user-attachments/assets/b04ef843-5ed3-47df-a641-0f74105a9ba3)
+
+
