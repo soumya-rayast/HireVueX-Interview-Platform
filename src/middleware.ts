@@ -2,20 +2,7 @@ import { clerkMiddleware } from "@clerk/nextjs/server";
 // import { NextResponse } from "next/server";
 
 
-// export default clerkMiddleware(async (req) => {
-//   const { sessionClaims } = await auth(); // Get session claims here
-
-//   if (sessionClaims?.publicMetadata?.role == null) {
-//     const isOnRolePage = req.nextUrl.pathname === "/select-role";
-
-//     if (!isOnRolePage) {
-//       const url = new URL("/select-role", req.url);
-//       return NextResponse.redirect(url);
-//     }
-//   }
-
-//   return NextResponse.next();
-// });
+export default clerkMiddleware();
 
 export const config = {
   matcher: [
