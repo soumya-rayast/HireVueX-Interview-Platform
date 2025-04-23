@@ -3,7 +3,7 @@
 
 ## 🚀 Overview  
 
-A modern video calling platform designed for technical interviews. It enables interviewers to conduct live coding sessions, leave comments, and review recorded meetings.  
+A modern video calling platform built specifically for technical interviews. It allows interviewers to conduct live coding sessions, leave real-time comments, and review recorded meetings. Users can seamlessly switch roles between interviewer and candidate, enabling a flexible and dynamic interview experience. 
 
 ## 🔥 Features  
 
@@ -76,5 +76,10 @@ The app will be available at **`http://localhost:3000`**.
 
 ## Candidate Dashboard
 ![image](https://github.com/user-attachments/assets/b04ef843-5ed3-47df-a641-0f74105a9ba3)
+
+## Change Role Functionality 
+![image](https://github.com/user-attachments/assets/33d5fef9-c905-4669-8d71-d0d094c6ac89)
+![image](https://github.com/user-attachments/assets/3f8588ea-5b25-4960-b0b9-4c04ad79f3d1)
+
 
 
